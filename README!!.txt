@@ -7,3 +7,9 @@
 - Buat database dengan nama "mobile"
 - Buat tabel "users" dengan kolom id, username, password
 
+
+Sumber no2
+http://agusharyanto.net/wordpress/?p=452
+
+Sumber no3
+http://agusharyanto.net/wordpress/?p=586&cpage=5
